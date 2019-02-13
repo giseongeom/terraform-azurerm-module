@@ -50,5 +50,12 @@ terraform.tfvars
 terraform.tfstate
 terraform.tfstate.*.backup
 terraform.tfstate.backup
-terraform*exe
+terraform.exe
+terraform-provider-softlayer.exe    
 
+
+
+# misc
+.hidden/
+var-cred*.json
+var-cred*.env
